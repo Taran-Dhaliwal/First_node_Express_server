@@ -1,0 +1,25 @@
+
+
+#name{
+    font-style: italic;
+    color: blue;
+    background-color: beige;
+    padding: 100px;
+    border: 2px solid;
+}
+
+#number{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 0, 0);
+    background-color: rgb(241, 241, 111);
+    margin: 100px;
+    border: 2px solid;
+}
+
+img{
+    border-radius: 8px;
+    border: 2px solid;
+    width: 500px;
+}
+
+
